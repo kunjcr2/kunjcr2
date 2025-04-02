@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @kunjcr2<br>👀 I’m interested in Machine Learning, Generative AI, Programming, and Web Development<br>🌱 I’m currently learning Computer Science at San Francisco State University<br>💞️ I’m looking to collaborate on ANYTHING – whether it’s AI, web development, or any cool project to learn and grow more!<br>📫 How to reach me:<br>Email: kunjcr2@gmail.com<br><br>😄 Pronouns: He/Him/His<br>⚡ Fun fact: I’ve got a ton of them! Let’s chat and share knowledge!<br>Currently working on my AI Personal Assistant Web Applications for SparkSF Club.
+Hi, I’m @kunjcr2<br>👀 I’m interested in Machine Learning, Generative AI, Programming, and Web Development<br>🌱 I’m currently learning Computer Science at San Francisco State University<br>💞️ I’m looking to collaborate on ANYTHING – whether it’s AI, web development, or any cool project to learn and grow more!<br>📫 How to reach me:<br>Email: kunjcr2@gmail.com<br><br>😄 Pronouns: He/Him/His<br>⚡ Fun fact: I’ve got a ton of them! Let’s chat and share knowledge!<br>Currently working on my AI Personal Assistant and Web Applications for SparkSF Club.
 
 
 ## 🌐 Socials:
