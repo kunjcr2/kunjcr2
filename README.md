@@ -12,9 +12,6 @@ Hi, I’m @kunjcr2<br>👀 I’m interested in Machine Learning, Generative AI, 
 ![](https://nirzak-streak-stats.vercel.app/?user=kunjcr2&theme=shadow_green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunjcr2&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kunjcr2&theme=shadow_green&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
