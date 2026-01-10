@@ -50,7 +50,6 @@ Open to impactful collaborations in LLMs, agents, and applied AI systems.
 * MongoDB, MySQL
 * Git, GitHub, Postman
 
-# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kunjcr2&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kunjcr2&theme=shadow_green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunjcr2&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
