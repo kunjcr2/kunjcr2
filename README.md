@@ -5,7 +5,7 @@ I’ve built and deployed transformer models from scratch, including instruction
 Currently studying Computer Science while leading AI initiatives and contributing to open-source research.
 Open to impactful collaborations in LLMs, agents, and applied AI systems.
 
- - Also, currently a San Jose State University Student. And upcoming Deep learning Intern at A10 Networks. (Im hella excited).
+ - Also, currently a San Jose State University Student. And upcoming Deep learning Intern at A10 Networks. (Im hella excited), JUST A FEW DAYS NOW!
 
 ## Socials:
 - Website: https://kunjs.vercel.app
