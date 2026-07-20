@@ -8,7 +8,7 @@ Open to impactful collaborations in LLMs, agents, and applied AI systems.
  - Also, currently a San Jose State University Student. And Deep Learning Intern at A10 Networks. Going super good, and working on the VLM Guardrails.
 
 ## Socials:
-- Website: https://kunjs.vercel.app
+- Website: https://kunjs.github.io
 - LinkedIn: https://www.linkedin.com/in/kunjcr2
 - Email: mailto:kunjcr2@gmail.com
 - Hugging Face: https://huggingface.co/kunjcr2
