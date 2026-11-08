@@ -1,59 +1,79 @@
-# About Me:
-Hi, I’m Kunj Shah — a Machine Learning Engineer focused on building, training, and optimizing Large Language Models.
-I work on LLM architecture, fine-tuning (SFT, DPO), and inference optimization at scale.
-I’ve built and deployed transformer models from scratch, including instruction-tuned and agentic systems.
-Currently studying Computer Science while leading AI initiatives and contributing to open-source research.
-Open to impactful collaborations in LLMs, agents, and applied AI systems.
+# About Me
 
- - Also, currently a San Jose State University Student. And Deep Learning Intern at A10 Networks for Summer 2026. Was super good, and worked on the VLM Guardrails. (AND YALL IM RETURNING!!!!!)
+Hi, I’m **Kunj Shah** — a Computer Science student and Deep Learning Engineer focused on **LLMs, VLMs, AI safety, alignment, and applied machine learning systems**.
 
-## Socials:
-- Website: https://kunjcr2.github.io
-- LinkedIn: https://www.linkedin.com/in/kunjcr2
-- Email: mailto:kunjcr2@gmail.com
-- Hugging Face: https://huggingface.co/kunjcr2
-- GitHub: https://github.com/kunjcr2
+I work across the model lifecycle: **training, fine-tuning, alignment, evaluation, inference, and deployment**, with experience scaling PyTorch training across multiple GPUs and building production ML pipelines.
 
-## Tech Stack:
+- **B.S. Computer Science @ San Jose State University** — Expected May 2027
+- **Researcher @ SJSU** — researching adversarial neural networks for cryptography under Prof. Mark Stamp
+- **AI Engineer Intern @ Routes Technologies** — building LLM-powered systems, recommendation models, ML pipelines, and Azure ML deployments
+- Previously **Deep Learning Engineer Intern @ A10 Networks — AI Firewall Team**, where I worked on **TrooperViz**, a multimodal guardrail for text, image-text, multilingual, and multi-turn safety evaluation
+- **Returning to A10 Networks as a Senior ML Engineer — AI Safety & Evaluation**
+- Interested in **LLM/VLM safety, alignment, model architecture, inference, agents, and evaluation**
+
+I also build and release models, research implementations, and AI systems through GitHub and Hugging Face.
+
+## Selected Projects
+
+- **LLM Firewall for Agentic Tool-Calling** — low-latency defense against prompt injection using a fine-tuned BERT classifier and adversarial GPT-2 attacker loop
+- **theHelper** — production-style RAG research assistant with FAISS, reranking, LangChain, observability, and CI-gated evaluation
+- **Kanting** — video RAG system using Whisper and semantic search to retrieve precise timestamps from YouTube videos
+- **AdaptRoute** — task-aware routing from user queries to specialized models
+- **GatorGPT** — 63M-parameter transformer built for consumer GPUs using GQA and RoPE
+- **How LLMs Are Made** — annotated implementations of GPT-2, DeepSeek MoE, Kimi, and other modern architectures from scratch
+- **MedAssistGPT** — 303M and 401M parameter medical-domain transformers trained on PubMed
+- Fine-tuned **Qwen, Llama, and StableLM** models using SFT, DPO, QLoRA, and GRPO
+
+## Tech Stack
 
 ### Languages
 
-* Python, C++, JavaScript, Java, SQL, HTML/CSS
+- Python, SQL, Java, JavaScript, C++, Bash, R, HTML/CSS
 
-### Machine Learning & LLMs
+### LLMs & Deep Learning
 
-* PyTorch, TensorFlow, Keras, Scikit-learn
-* Transformers, Large Language Models (LLMs)
-* Fine-tuning (SFT, LoRA), Preference Optimization (DPO, PPO)
-* NLP, Computer Vision, Reinforcement Learning
-* Prompt Engineering, RAG Pipelines
+- PyTorch, TensorFlow, scikit-learn
+- Transformers, Vision-Language Models, Neural Networks
+- Pretraining, Fine-tuning, Alignment, Benchmarking
+- SFT, DPO, GRPO, PPO, LoRA, QLoRA, PEFT, TRL
+- Multi-GPU Training, Quantization, Inference Optimization
+- NLP, Computer Vision, Reinforcement Learning
 
-### LLM Tooling & Agents
+### LLM Systems & Agents
 
-* Hugging Face (Models, Hub), OpenAI API
-* LangChain, LangFlow, n8n
-* AI Agents, Tool Calling, Prompt Chaining
-* MCP Servers, Vector Databases
+- Hugging Face, OpenAI API
+- LangChain, FAISS, Sentence Transformers
+- RAG, Vector Databases, Tool Calling
+- AI Agents, MCP, Prompt Chaining
+- Whisper, BART
 
-### MLOps & Deployment
+### MLOps & Infrastructure
 
-* Docker, vLLM Serving
-* Model Deployment, Inference Optimization
-* GPU Optimization, Distributed Training
-* Weights & Biases, Vertex AI
+- vLLM, Docker, FastAPI, Flask
+- Azure ML, Microsoft Azure, GCP, Lambda
+- Weights & Biases
+- CI/CD, Nginx, Linux
+- Pandas, Polars, NumPy, Scrapy
 
-### Backend & Web
+### Databases & Web
 
-* Node.js, Express.js, Flask
-* React.js, TailwindCSS, Streamlit
+- PostgreSQL, MySQL, MongoDB
+- Node.js, React.js, TailwindCSS
+- Git, GitHub, Postman
 
-### Databases & Infrastructure
+## Socials
 
-* MongoDB, MySQL
-* Git, GitHub, Postman
+- **Website:** https://kunjcr2.github.io
+- **LinkedIn:** https://www.linkedin.com/in/kunjcr2
+- **Hugging Face:** https://huggingface.co/kunjcr2
+- **GitHub:** https://github.com/kunjcr2
+- **Email:** kunjcr2@gmail.com
+- **Astrophotography:** https://kunjcr2.github.io/astrophotography.html
 
-![](https://github-readme-stats.vercel.app/api?username=kunjcr2&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kunjcr2&theme=shadow_green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunjcr2&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## Outside of AI
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I also pursue **astrophotography**, photographing planets, star clusters, galaxies, and nebulae using long exposures and image stacking.
+
+View my photography collection:
+
+**https://kunjcr2.github.io/astrophotography.html**
