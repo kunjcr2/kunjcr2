@@ -5,10 +5,10 @@ I’ve built and deployed transformer models from scratch, including instruction
 Currently studying Computer Science while leading AI initiatives and contributing to open-source research.
 Open to impactful collaborations in LLMs, agents, and applied AI systems.
 
- - Also, currently a San Jose State University Student. And Deep Learning Intern at A10 Networks for Summer 2026. Was super good, and worked on the VLM Guardrails.
+ - Also, currently a San Jose State University Student. And Deep Learning Intern at A10 Networks for Summer 2026. Was super good, and worked on the VLM Guardrails. (AND YALL IM RETURNING!!!!!)
 
 ## Socials:
-- Website: https://kunjs.github.io
+- Website: https://kunjcr2.github.io
 - LinkedIn: https://www.linkedin.com/in/kunjcr2
 - Email: mailto:kunjcr2@gmail.com
 - Hugging Face: https://huggingface.co/kunjcr2
